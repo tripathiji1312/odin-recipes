@@ -1,3 +1,9 @@
+*{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #fbe9d0;
+}
 .common-in-page{
     display: flex;
 }
@@ -6,13 +12,17 @@
     height: auto;
 }
 .common-in-page > div {
+    font-weight: 900;
     padding: 0px auto;
     margin: 0 0;
     align-content: center;
 }
 .common-in-page > div > .title {
+    color: #e74833;
+    font-size: 39px;
     margin: 0 auto;
 }
 .common-in-page > div > .subtitle {
+    color: #244855;
     margin: 0;
 }

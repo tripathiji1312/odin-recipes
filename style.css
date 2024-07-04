@@ -1,0 +1,18 @@
+.common-in-page{
+    display: flex;
+}
+.common-in-page > img{
+    width: 100px;
+    height: auto;
+}
+.common-in-page > div {
+    padding: 0px auto;
+    margin: 0 0;
+    align-content: center;
+}
+.common-in-page > div > .title {
+    margin: 0 auto;
+}
+.common-in-page > div > .subtitle {
+    margin: 0;
+}
